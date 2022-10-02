@@ -18,7 +18,9 @@
   <img align="center" alt="Enzo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Enzo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Enzo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <br>
   <img align="right" alt="Enzo-pic" height="150" style="border-radius:50px;" src="https://superygo.files.wordpress.com/2017/02/hqdefault.jpg?width=676&height=676">
+  <br>
 </div>
   
   ##
