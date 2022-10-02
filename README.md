@@ -33,4 +33,10 @@
  
   ![Snake animation](https://github.com/enzovp01/enzovp01/blob/output/github-contribution-grid-snake.svg)
  
+ </div>
+ <div> 
+ <br>
+ <br>
+ <h3>Divertir-se faz parte do processo! Me add 🎮😊 </h3>
+ <a href="https://www.youtube.com/channel/UC-D0HIXYhTlTFKHHVvulDhw" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
